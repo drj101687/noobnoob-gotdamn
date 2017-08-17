@@ -1,0 +1,615 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"property",
+				"propertyValue"
+			],
+			[
+				"curr",
+				"currentRes"
+			],
+			[
+				"temp",
+				"tempPathList"
+			],
+			[
+				"process",
+				"processList"
+			],
+			[
+				"search",
+				"searchValue"
+			],
+			[
+				"prop",
+				"properties"
+			],
+			[
+				"found",
+				"foundValue"
+			],
+			[
+				"propert",
+				"propertyName"
+			],
+			[
+				"updateRe",
+				"updateRegexPattern"
+			],
+			[
+				"updateF",
+				"updateFindValue"
+			],
+			[
+				"propre",
+				"propertyType"
+			],
+			[
+				"updateProperty",
+				"updatePropertyValues"
+			],
+			[
+				"save",
+				"saveThreshold"
+			],
+			[
+				"proper",
+				"propertyName"
+			],
+			[
+				"propertyValu",
+				"propertyValues"
+			],
+			[
+				"propertyVal",
+				"propertyVales"
+			],
+			[
+				"newPropert",
+				"newPropertyName"
+			],
+			[
+				"new",
+				"newPropertyValues"
+			],
+			[
+				"newProper",
+				"newPropertyValues"
+			],
+			[
+				"NewPopert",
+				"newPropertyValues"
+			],
+			[
+				"res",
+				"resource"
+			],
+			[
+				"delete",
+				"deletePropertyName"
+			],
+			[
+				"newP",
+				"newPropertyType"
+			],
+			[
+				"date",
+				"dateValue"
+			],
+			[
+				"Content",
+				"ContentScannerSettings"
+			],
+			[
+				"Resource",
+				"ResourceResolver"
+			],
+			[
+				"resource",
+				"resourceResolver"
+			],
+			[
+				"pack",
+				"packageName"
+			],
+			[
+				"jcr",
+				"jcrPrimaryType"
+			],
+			[
+				"batc",
+				"batchSize"
+			],
+			[
+				"bad",
+				"badPathPrefix"
+			],
+			[
+				"Query",
+				"QueryManager"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"PackageControl",
+				"Package Control: Install Package"
+			],
+			[
+				"Package",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/darrin.johnson/Dev/drj101687/noobnoob-gotdamn/index.html",
+		"/Users/darrin.johnson/Dev/drj101687/noobnoob-gotdamn/js/bootstrap.min.js",
+		"/Users/darrin.johnson/Dev/drj101687/noobnoob-gotdamn/js/jquery-2.2.0.min.js",
+		"/Users/darrin.johnson/Dev/drj101687/noobnoob-gotdamn/js/npm.js",
+		"/Users/darrin.johnson/Dev/drj101687/noobnoob-gotdamn/js/gotdamn.js",
+		"/Users/darrin.johnson/Dev/drj101687/noobnoob-gotdamn/js/index.js",
+		"/Users/darrin.johnson/Dev/contentmanipulator.jsp",
+		"/Users/darrin.johnson/Dev/contentscanner.jsp",
+		"/Users/darrin.johnson/Dev/IR/AEM-IRP/startup.sh",
+		"/Users/darrin.johnson/Dev/Component-Catalog/test.html",
+		"/Users/darrin.johnson/Dev/Component-Catalog/6.2/cleanAuthor/startup.sh",
+		"/Users/darrin.johnson/Dev/AICPA/publish/startup.sh",
+		"/Users/darrin.johnson/Dev/Component-Catalog/6.2/startup.sh",
+		"/Users/darrin.johnson/Dev/IR/solr/server/solr/iraem/conf/schema.xml",
+		"/Users/darrin.johnson/Dev/IR/Solr/solr-5.2.1/server/solr/solr.xml",
+		"/Users/darrin.johnson/.m2/settings.xml",
+		"/Users/darrin.johnson/.m2/repository/com/day/cq/dam/cq-dam-commons/5.6.6/_remote.repositories",
+		"/Users/darrin.johnson/Dev/IR/AEM/AEM-IRP/license.properties",
+		"/Users/darrin.johnson/Dev/settings.xml",
+		"/Users/darrin.johnson/Downloads/jcr_root/content/aicpa/membership/cgma-rsvp-thankyou/.content.xml",
+		"/Users/darrin.johnson/Downloads/jcr_root/content/aicpa/membership/.content.xml",
+		"/Users/darrin.johnson/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/darrin.johnson/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/darrin.johnson/Downloads/jcr_root 2/apps/icidigital/components/content/contentmanipulator/contentmanipulator.jsp",
+		"/Users/darrin.johnson/Downloads/jcr_root/etc/workflow/models/ici-aicpa-content-cleanup/_jcr_content/model.xml",
+		"/Users/darrin.johnson/Dev/AICPA/6.2/startup.sh",
+		"/Users/darrin.johnson/Downloads/aicpa-products-feed.xml",
+		"/Users/darrin.johnson/Downloads/jcr_root/apps/icidigital/components/content/contentmanipulator/contentmanipulator.jsp",
+		"/Users/darrin.johnson/Dev/AICPA/6.2/tar-compact.sh",
+		"/Users/darrin.johnson/Downloads/solringest.sh",
+		"/Users/darrin.johnson/Downloads/FVS Example Accounts.msg",
+		"/Users/darrin.johnson/Downloads/Original Email Thread initiated Nov 7.msg",
+		"/Users/darrin.johnson/Downloads/cgma_redirect.txt",
+		"/Users/darrin.johnson/Dev/AICPA/Publisher/startup.sh",
+		"/Users/darrin.johnson/Downloads/jcr%3acontent (1)",
+		"/Users/darrin.johnson/Dev/AICPA/aicpa-jofa/conf/common/solr/example/solr/aicpa-store/conf/xslt/JofASearch_ORG_C2b_Data.xml",
+		"/Users/darrin.johnson/Dev/AICPA/solr/bin/solr.in.sh",
+		"/Users/darrin.johnson/Downloads/bug_240.mbox",
+		"/Users/darrin.johnson/Downloads/FaqSearchServlet.java",
+		"/Users/darrin.johnson/Downloads/RecipeSearchServlet.java",
+		"/Users/darrin.johnson/Downloads/SFTP_QA_AICPA.pem",
+		"/Users/darrin.johnson/Downloads/CleanMagazineRelativeURLs(reports).txt",
+		"/Users/darrin.johnson/Downloads/CleanMagazineRelativeURLs(features).txt",
+		"/Users/darrin.johnson/Downloads/CleanMagazineRelativeURLs.txt",
+		"/Users/darrin.johnson/Downloads/jcr_root/apps/icidigital/components/content/contentmanipulator/dialog.xml",
+		"/Users/darrin.johnson/Downloads/iframe-source-before.txt",
+		"/Users/darrin.johnson/Downloads/iframe-source-after.txt",
+		"/Users/darrin.johnson/Downloads/SendUsertoForefieldAdvisor.aspx.cs",
+		"/Users/darrin.johnson/Downloads/JofASearch_ORG_C2b_Data.xml",
+		"/Users/darrin.johnson/Downloads/ContentFeeds-2016-07-13T22-00-34.2016-07-14T07_04_59.xml",
+		"/Users/darrin.johnson/Downloads/content-updater-script.jsp",
+		"/Users/darrin.johnson/Downloads/dispatcher.any",
+		"/Users/darrin.johnson/Downloads/jcr_root/apps/aicpa/install/aicpa-1.0.0-SNAPSHOT/META-INF/MANIFEST.MF",
+		"/Users/darrin.johnson/Downloads/jcr_root/content/cgma-home/cost-transformation/tool-assets/cost-transformational-tool/css/slick.css.dir/.content.xml",
+		"/Users/darrin.johnson/Downloads/jcr_root/content/cgma-home/.content.xml",
+		"/Users/darrin.johnson/Downloads/jcr_root/apps/daycare/config/com.day.cq.dam.core.impl.handler.xmp.NCommXMPHandler.xml",
+		"/Users/darrin.johnson/Downloads/Cost-Transformational-Tool/tool-assets/cost-transformational-tool/css/slick.css",
+		"/Users/darrin.johnson/Downloads/C2B_Products_For_Org.xml",
+		"/Users/darrin.johnson/Downloads/ContentMigration/PublicationsNewslettersAICPANewsUpdate2011-pages.xml",
+		"/Users/darrin.johnson/Downloads/Cost-Transformational-Tool/META-INF/vault/properties.xml",
+		"/Users/darrin.johnson/Downloads/Cost-Transformational-Tool/META-INF/vault/filter.xml",
+		"/Users/darrin.johnson/Downloads/Cost-Transformational-Tool/META-INF/vault/config.xml",
+		"/Users/darrin.johnson/Downloads/Cost-Transformational-Tool/jcr_root/.content.xml",
+		"/Users/darrin.johnson/Downloads/Cost-Transformational-Tool/jcr_root/content/.content.xml",
+		"/Users/darrin.johnson/Downloads/Cost-Transformational-Tool/jcr_root/content/cgma-home/.content.xml",
+		"/Users/darrin.johnson/Downloads/Risk-Management/META-INF/vault/definition/.content.xml",
+		"/Users/darrin.johnson/Downloads/Risk-Management/META-INF/vault/properties.xml",
+		"/Users/darrin.johnson/Downloads/Risk-Management/META-INF/vault/filter.xml",
+		"/Users/darrin.johnson/Downloads/Risk-Management/META-INF/vault/config.xml",
+		"/Users/darrin.johnson/Downloads/Risk-Management/jcr_root/content/.content.xml",
+		"/Users/darrin.johnson/Dev/AICPA/6.2/JofASearch_ORG_C2b_Data.xml",
+		"/Users/darrin.johnson/Downloads/Risk-Management/jcr_root/content/cgma-home/.content.xml",
+		"/Users/darrin.johnson/Downloads/Published Content/Pages/Magazine-pages.xml",
+		"/Users/darrin.johnson/Dev/AEM/src/libs/cq/workflow/gui/components/inbox/clientlibs/inbox/js/model/InboxItemModel.js",
+		"/Users/darrin.johnson/Library/Spelling/LocalDictionary",
+		"/Users/darrin.johnson/Downloads/efi/boot/enterprise.cfg",
+		"/Users/darrin.johnson/Downloads/hmm_content-part2/META-INF/vault/filter.xml",
+		"/Users/darrin.johnson/Downloads/hmm_content-part2/META-INF/vault/properties.xml",
+		"/Users/darrin.johnson/Downloads/hmm_content-part2/jcr_root/content/cgma-home/.content.xml",
+		"/Users/darrin.johnson/Downloads/hmm_content-part2/jcr_root/content/.content.xml",
+		"/Users/darrin.johnson/Downloads/hmm_content-part2/jcr_root/.content.xml",
+		"/Users/darrin.johnson/Downloads/hmm_content-part-1/META-INF/vault/properties.xml",
+		"/Users/darrin.johnson/Downloads/hmm_content/META-INF/vault/definition/.content.xml",
+		"/Users/darrin.johnson/Downloads/hmm_content/META-INF/vault/config.xml",
+		"/Users/darrin.johnson/Downloads/hmm_content/META-INF/vault/properties.xml",
+		"/Users/darrin.johnson/Downloads/dispatcher-apache2.2-linux-x86-64-4.2.0/conf/httpd.conf.disp2",
+		"/Users/darrin.johnson/Downloads/Published Content/Pages/ResourcesReports-pages.xml",
+		"/Users/darrin.johnson/Downloads/uatcgma-13-example.xml",
+		"/Users/darrin.johnson/Downloads/thirsty-planet-testing-content.xml",
+		"/Users/darrin.johnson/Downloads/Published Content/Pages/MagazineNews-pages.xml",
+		"/Users/darrin.johnson/Downloads/cgma-migrated-content-pages-20160916_7_00a/META-INF/vault/config.xml",
+		"/Users/darrin.johnson/Downloads/cgma-migrated-content-pages-20160916_7_00a/META-INF/vault/definition/.content.xml",
+		"/Users/darrin.johnson/Downloads/cgma-migrated-content-pages-20160916_7_00a/META-INF/vault/filter.xml",
+		"/Users/darrin.johnson/Downloads/cgma-migrated-content-pages-20160916_7_00a/META-INF/vault/properties.xml",
+		"/Users/darrin.johnson/Downloads/cgma-migrated-content-pages-20160916_7_00a/jcr_root/content/cgma-home-migration/.content.xml",
+		"/Users/darrin.johnson/Downloads/cgma-migrated-content-pages-20160916_7_00a/jcr_root/content/.content.xml",
+		"/Users/darrin.johnson/Downloads/fixrelatedarticles.jsp",
+		"/Users/darrin.johnson/Downloads/ResourcesVideos-pages.xml",
+		"/Users/darrin.johnson/Downloads/_jcr_content.js",
+		"/Users/darrin.johnson/Downloads/_jcr_content.adproperties.js",
+		"/Users/darrin.johnson/Downloads/pre-existingInstantAccessKeys-CGMA.json",
+		"/Users/darrin.johnson/Downloads/logs",
+		"/Users/darrin.johnson/Downloads/reindexing-flow.sh",
+		"/Users/darrin.johnson/Dev/AICPA/startup.sh",
+		"/Users/darrin.johnson/Downloads/testing content/jcr_root/content/cgma-home/hmm/presentation_skills/base/flash/xml/_call_to_action_captions.xml",
+		"/Users/darrin.johnson/Downloads/testing content/jcr_root/content/cgma-home/hmm/presentation_skills/adlcp_rootv1p2.xsd",
+		"/Users/darrin.johnson/Downloads/testing content/META-INF/vault/filter.xml",
+		"/Users/darrin.johnson/Downloads/testing content/jcr_root/content/cgma-home/.content.xml",
+		"/Users/darrin.johnson/Downloads/testing content/jcr_root/content/.content.xml",
+		"/Users/darrin.johnson/Downloads/testing content/jcr_root/content/cgma-home/testing/.content.xml",
+		"/Users/darrin.johnson/Downloads/qa-content/META-INF/vault/filter.xml",
+		"/Users/darrin.johnson/Downloads/qa-content/jcr_root/content/hmm/.content.xml",
+		"/Users/darrin.johnson/Downloads/qa-content/jcr_root/content/.content.xml",
+		"/Users/darrin.johnson/Downloads/qa-content/jcr_root/.content.xml",
+		"/Users/darrin.johnson/Downloads/CGMA-HMM-Content/jcr_root/content/.content.xml",
+		"/Users/darrin.johnson/Downloads/CGMA-HMM-Content/jcr_root/content/hmm/.content.xml",
+		"/Users/darrin.johnson/Downloads/hmm11full/imsmanifest.xml",
+		"/Users/darrin.johnson/Dev/AICPA/publisher/startup.sh",
+		"/Users/darrin.johnson/Dev/oktasdk-java/pom.xml",
+		"/Users/darrin.johnson/Dev/oktasdk-java/okta-sdk-0.0.4-SNAPSHOT/META-INF/MANIFEST.MF",
+		"/Users/darrin.johnson/Dev/AICPA/aicpa-jofa/okta-sdk/build/libs/okta-sdk-1.0.0-SNAPSHOT/META-INF/MANIFEST.MF",
+		"/Users/darrin.johnson/Dev/AICPA/aicpa-jofa/README.md",
+		"/Users/darrin.johnson/Downloads/ir-products-content-crx-package-1.0-SNAPSHOT (1)/jcr_root/apps/ir-products/components/content/languageCountryPairs/.content.xml",
+		"/Users/darrin.johnson/Dev/AICPA/start",
+		"/Users/darrin.johnson/Dev/Kohls/startup.sh",
+		"/Users/darrin.johnson/Dev/Kohls/kohls-intranet-aem/README.md",
+		"/Users/darrin.johnson/Downloads/k12-logs/k12.log.2016-05-09",
+		"/Users/darrin.johnson/Dev/IR/startup.sh"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"slf4j",
+			"joda-time",
+			"slf4j",
+			"code",
+			"slf4j.api",
+			"jcl.over.slf4j",
+			"query",
+			"javax.jcr",
+			"joda-time",
+			"yuicomp",
+			"org.apache.servicemix.bundles.noggit",
+			"solrj",
+			"solr",
+			"joda-time",
+			"com.ctc.wstx",
+			"replicator",
+			"\\\"",
+			"</p>",
+			"<p>",
+			"<p style=\\\"text-align: center;\\\">",
+			"&nbsp;",
+			"</p>",
+			"<p style=\\\"text-align: center;\\\">",
+			"/interestareas/",
+			"/research/",
+			"/publications/",
+			"/press/",
+			"/member",
+			"], ",
+			"adobe",
+			"pageManager",
+			"\\n",
+			"commit",
+			"\"",
+			"csSettings",
+			"Scanner",
+			"scanner",
+			"ContentScannerSettings",
+			"isBlank",
+			"rr.",
+			"rr",
+			"csSettings.getPropertyName()",
+			"csSettings.getBatchSize()",
+			"csSettings.getPageProps()",
+			"trackedPages",
+			"red",
+			"blue",
+			"red",
+			"StringUtils",
+			"http://www.cgma.org",
+			"jcrNodeType",
+			"runScript",
+			"<p>",
+			";;",
+			"class=ExternalClass##########",
+			"\",",
+			"    ",
+			"\",",
+			"    ",
+			"\"description\":",
+			"<br> <br> <br> <br>",
+			"width",
+			"<a",
+			"<a>",
+			"name=",
+			"AICPA Bylaws",
+			"id=",
+			"height",
+			"<table s",
+			"session",
+			"catalog",
+			"<table",
+			"img",
+			"<img",
+			"img",
+			"<img",
+			".html",
+			"http://www.cgma.org",
+			"lc",
+			"2017/jan",
+			"/feb",
+			"2017",
+			"hmm",
+			"collection1",
+			"tls",
+			"entry-content p",
+			"</div",
+			"<div",
+			"<div>",
+			" ",
+			"/",
+			"content-type:",
+			"        \"",
+			"\",",
+			"%20",
+			"* ",
+			"Accounting%20Educators",
+			"Accounting%20Education",
+			"/playlist/",
+			"/subcategory/",
+			"/category/",
+			"target",
+			"target ori",
+			"target origin",
+			"Invalid M",
+			"Invalid",
+			"finance-accounting-hiring-201615088",
+			"processed",
+			"log",
+			"NodeIterator",
+			"videosArray",
+			"callNumber",
+			"getMediaData",
+			"baseUrl",
+			"/cost-transformation-tool",
+			"&amp;",
+			"&quot;",
+			"&lt;",
+			"&gt;",
+			"&lt;",
+			"&quot;",
+			"<",
+			"</p>",
+			"<p style=\"font-size:11pt;margin:0in\">",
+			"\"rr\"",
+			"\"sy\"",
+			"\"qa\"",
+			"show_reviews"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"",
+			"",
+			"/content/aicpa/interestareas/",
+			"/content/aicpa/research/",
+			"/content/aicpa/publications/",
+			"/content/aicpa/press/",
+			"/content/aicpa/member",
+			"],\\n",
+			"'",
+			"cmSettings",
+			"Manipulator",
+			"manipulator",
+			"ContentManipulatorSettings",
+			"propertyName",
+			"batchSize",
+			"pageProps",
+			"trackedResources",
+			"",
+			"jcrPrimaryType",
+			"runTool",
+			";",
+			"",
+			"\": ",
+			"",
+			"\": ",
+			"",
+			"-",
+			":",
+			"",
+			"-",
+			"",
+			"Accounting-Educators",
+			"Accounting-Education",
+			"/p/",
+			"/s/",
+			"/c/",
+			"/cost-transformation-model",
+			"&",
+			"\"",
+			"<",
+			">",
+			"<",
+			"\"",
+			"",
+			">",
+			"<",
+			"\"",
+			"",
+			"\"",
+			">",
+			"<",
+			"",
+			";",
+			";\">",
+			"",
+			"\\\"",
+			"\"value\":\"",
+			"\"text\":\"",
+			">",
+			"<",
+			"",
+			"&gt;",
+			"&lt;",
+			"&quot;",
+			"",
+			"  ",
+			" ",
+			"\"",
+			">",
+			"<",
+			"",
+			"\"createdDate\":\"2016-05-20T15:00:00.000Z\",",
+			"\"createdDate\":\"2016-5-20T15:00:00.000Z\",",
+			"\"createdDate\":\"2016-02-05T15:00:02.690Z\",",
+			"\"createdBy\":\"admin\",",
+			"\"type\":\"CGMA\",",
+			"\"durationType\":\"permanent\",",
+			"\\\"",
+			"",
+			"logo.png",
+			"Peak Fitness",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 217.0,
+	"status_bar_visible": true
+}

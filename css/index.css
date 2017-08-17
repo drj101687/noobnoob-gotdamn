@@ -20,21 +20,35 @@
     -webkit-tap-highlight-color: rgba(0,0,0,0); /* make transparent link selection, adjust last value opacity 0 to 1.0 */
 }
 
+@media only screen and (min-width: 736px) {
+    body {
+        background-image: url( '../assets/background.jpg' );
+    }
+    /* styles for wide screens */
+}
+@media only screen and (max-width: 735px) {
+    body {
+        background-image: url( '../assets/mobile-background.jpg' );
+    }
+}
+
+/* override */
+.ui-overlay-a, .ui-page-theme-a, .ui-page-theme-a .ui-panel-wrapper {
+    background-color: transparent;
+}
+
+.ui-page-theme-a .ui-btn:hover, html .ui-bar-a .ui-btn:hover, html .ui-body-a .ui-btn:hover, html body .ui-group-theme-a .ui-btn:hover, html head+body .ui-btn.ui-btn-a:hover {
+    background-color: rgba(71, 247, 92, 0.8);
+    border-color: #ddd;
+    color: #333;
+    text-shadow: 0 1px 0 #f3f3f3;
+}
+
 body {
     -webkit-touch-callout: none;                /* prevent callout to copy image, etc when tap to hold */
     -webkit-text-size-adjust: none;             /* prevent webkit from resizing text to fit */
     -webkit-user-select: none;                  /* prevent copy paste, to allow, change 'none' to 'text' */
-    background-color:#E4E4E4;
-    background-image:linear-gradient(top, #A7A7A7 0%, #E4E4E4 51%);
-    background-image:-webkit-linear-gradient(top, #A7A7A7 0%, #E4E4E4 51%);
-    background-image:-ms-linear-gradient(top, #A7A7A7 0%, #E4E4E4 51%);
-    background-image:-webkit-gradient(
-        linear,
-        left top,
-        left bottom,
-        color-stop(0, #A7A7A7),
-        color-stop(0.51, #E4E4E4)
-    );
+    background-color: #000;
     background-attachment:fixed;
     font-family:'HelveticaNeue-Light', 'HelveticaNeue', Helvetica, Arial, sans-serif;
     font-size:12px;
@@ -49,6 +63,24 @@ body {
     margin-left: auto;
     margin-right: auto;
     width: 425px !important; /* custom width for the github page only */
+}
+
+#noobnoob {
+    background-image: url( '../assets/noobnoob.png' );
+    background-size: 330px 492px;
+    width: 340px;
+    height: 502px;  
+    margin: auto;
+}
+.mt-50 {
+    margin-top: 50px;
+}
+
+button #noobnoob {
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+    vertical-align: top;
 }
 
 .dn {
